@@ -1,13 +1,13 @@
 {
   "version": "v2",
-  "updated": "2026-11-10 11:46:54 CST",
-  "candidates": 62,
-  "tested": 60,
-  "verified": 54,
+  "updated": "2026-11-10 14:37:06 CST",
+  "candidates": 57,
+  "tested": 57,
+  "verified": 51,
   "unverified": 6,
   "top": [
     {
-      "ip": "104.16.153.251",
+      "ip": "104.16.129.122",
       "colo": "LAX",
       "source_count": 1,
       "sources": [
@@ -16,7 +16,7 @@
       "weight": 9
     },
     {
-      "ip": "104.17.67.158",
+      "ip": "104.18.205.232",
       "colo": "LAX",
       "source_count": 1,
       "sources": [
@@ -25,7 +25,7 @@
       "weight": 9
     },
     {
-      "ip": "104.19.51.222",
+      "ip": "104.18.7.39",
       "colo": "LAX",
       "source_count": 1,
       "sources": [
@@ -34,43 +34,7 @@
       "weight": 9
     },
     {
-      "ip": "107.189.22.25",
-      "colo": "AMS",
-      "source_count": 1,
-      "sources": [
-        "cmliu"
-      ],
-      "weight": 9
-    },
-    {
-      "ip": "134.122.53.66",
-      "colo": "AMS",
-      "source_count": 1,
-      "sources": [
-        "cmliu"
-      ],
-      "weight": 9
-    },
-    {
-      "ip": "143.246.62.173",
-      "colo": "LAX",
-      "source_count": 1,
-      "sources": [
-        "cmliu"
-      ],
-      "weight": 9
-    },
-    {
-      "ip": "153.56.133.119",
-      "colo": "AMS",
-      "source_count": 1,
-      "sources": [
-        "cmliu"
-      ],
-      "weight": 9
-    },
-    {
-      "ip": "162.159.244.235",
+      "ip": "104.19.115.99",
       "colo": "LAX",
       "source_count": 1,
       "sources": [
@@ -79,8 +43,17 @@
       "weight": 9
     },
     {
-      "ip": "165.232.39.158",
-      "colo": "LHR",
+      "ip": "104.19.74.58",
+      "colo": "LAX",
+      "source_count": 1,
+      "sources": [
+        "cfyes"
+      ],
+      "weight": 9
+    },
+    {
+      "ip": "134.255.247.200",
+      "colo": "FRA",
       "source_count": 1,
       "sources": [
         "cmliu"
@@ -88,7 +61,34 @@
       "weight": 9
     },
     {
-      "ip": "172.67.223.94",
+      "ip": "164.132.101.80",
+      "colo": "FRA",
+      "source_count": 1,
+      "sources": [
+        "cmliu"
+      ],
+      "weight": 9
+    },
+    {
+      "ip": "167.71.238.69",
+      "colo": "BOM",
+      "source_count": 1,
+      "sources": [
+        "cmliu"
+      ],
+      "weight": 9
+    },
+    {
+      "ip": "198.41.208.25",
+      "colo": "LAX",
+      "source_count": 1,
+      "sources": [
+        "cfyes"
+      ],
+      "weight": 9
+    },
+    {
+      "ip": "198.41.208.48",
       "colo": "LAX",
       "source_count": 1,
       "sources": [
