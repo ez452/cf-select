@@ -121,6 +121,11 @@ def main():
             f.write("%s:443#%02d|%s|%dms|%.1fMB/s\n"
                     % (r["ip"], i, r["colo"] or "?", r["lat"], r["speed"]))
 
+    # 给客户端的「优选 IP 替换」功能用的纯列表，一行一个 IP:443
+    with open("ip_plain.txt", "w", encoding="ascii") as f:
+        for r in top:
+            f.write("%s:443\n" % r["ip"])
+
     print("完成，已写入 ip.txt：TOP%d" % len(top))
     for i, r in enumerate(top, 1):
         print("  %02d. %-16s %-4s %5dms  %.1fMB/s"
