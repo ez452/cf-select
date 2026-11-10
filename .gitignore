@@ -1,0 +1,13 @@
+# 本地测速工具，不传仓库
+cfst.exe
+cf-select-v2.zip
+*.zip
+
+# cfst 跑出来的中间产物
+latency.csv
+result.csv
+candidates.txt
+pre.txt
+top10.txt
+cfst_input.txt
+speed.csv

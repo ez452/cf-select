@@ -1,0 +1,108 @@
+{
+  "version": "v2",
+  "updated": "2026-11-10 11:46:54 CST",
+  "candidates": 62,
+  "tested": 60,
+  "verified": 54,
+  "unverified": 6,
+  "top": [
+    {
+      "ip": "104.16.153.251",
+      "colo": "LAX",
+      "source_count": 1,
+      "sources": [
+        "cfyes"
+      ],
+      "weight": 9
+    },
+    {
+      "ip": "104.17.67.158",
+      "colo": "LAX",
+      "source_count": 1,
+      "sources": [
+        "cfyes"
+      ],
+      "weight": 9
+    },
+    {
+      "ip": "104.19.51.222",
+      "colo": "LAX",
+      "source_count": 1,
+      "sources": [
+        "cfyes"
+      ],
+      "weight": 9
+    },
+    {
+      "ip": "107.189.22.25",
+      "colo": "AMS",
+      "source_count": 1,
+      "sources": [
+        "cmliu"
+      ],
+      "weight": 9
+    },
+    {
+      "ip": "134.122.53.66",
+      "colo": "AMS",
+      "source_count": 1,
+      "sources": [
+        "cmliu"
+      ],
+      "weight": 9
+    },
+    {
+      "ip": "143.246.62.173",
+      "colo": "LAX",
+      "source_count": 1,
+      "sources": [
+        "cmliu"
+      ],
+      "weight": 9
+    },
+    {
+      "ip": "153.56.133.119",
+      "colo": "AMS",
+      "source_count": 1,
+      "sources": [
+        "cmliu"
+      ],
+      "weight": 9
+    },
+    {
+      "ip": "162.159.244.235",
+      "colo": "LAX",
+      "source_count": 1,
+      "sources": [
+        "cfyes"
+      ],
+      "weight": 9
+    },
+    {
+      "ip": "165.232.39.158",
+      "colo": "LHR",
+      "source_count": 1,
+      "sources": [
+        "cmliu"
+      ],
+      "weight": 9
+    },
+    {
+      "ip": "172.67.223.94",
+      "colo": "LAX",
+      "source_count": 1,
+      "sources": [
+        "cfyes"
+      ],
+      "weight": 9
+    }
+  ],
+  "sources": [
+    "cmliu",
+    "cfyes",
+    "vvhan",
+    "ymyuuu",
+    "zhixuan",
+    "mini"
+  ]
+}
