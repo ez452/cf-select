@@ -84,7 +84,7 @@ https://raw.githubusercontent.com/你的用户名/cf-select/main/ip.txt
 
 - `TOP_N` — 云端候选数量上限
 - `CANDIDATE_LIMIT` — 进入验活的候选上限，默认 60
-- `MIN_ACCEPT` — 低于这个通过数就不覆盖 ip.txt，默认 3
+- `MIN_ACCEPT` — 低于这个通过数就不写 cloud_top.txt，默认 3
 - `SOURCES` — 增删源
 
 `scripts/local_check.py` 顶部：

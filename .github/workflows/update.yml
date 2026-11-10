@@ -33,7 +33,7 @@ jobs:
         run: |
           git config user.name "cf-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add ip.txt ip_all.txt backup.txt meta.json log.txt
+          git add cloud_top.txt ip_all.txt backup.txt meta.json log.txt
           # meta.json 内含每次运行时间戳，必定产生 diff，因此必定 commit
           # 这同时解决了公共仓库 60 天无提交被暂停定时任务的问题
           git diff --cached --quiet || (git commit -m "优选更新 $(TZ=Asia/Shanghai date +'%F %R')" && git push)

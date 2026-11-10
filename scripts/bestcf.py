@@ -269,7 +269,7 @@ def main():
 
     # ---- 写出 ip_all / backup ----
     with open("ip_all.txt", "w", encoding="utf-8") as f:
-        f.write("# 全部通过验证 - %s CST\n" % NOW.strftime("%Y-%m-%d %H:%M"))
+        f.write("# 全部通过验证 - %s CST（colo 是验证机房，非本地落地机房）\n" % NOW.strftime("%Y-%m-%d %H:%M"))
         for r in verified:
             f.write("%s:443#%s|源%d\n" % (r["ip"], r["colo"], r["source_count"]))
 
@@ -284,13 +284,15 @@ def main():
             len(verified), MIN_ACCEPT))
     else:
         top = verified[:TOP_N]
-        with open("ip.txt", "w", encoding="utf-8") as f:
-            f.write("# CF优选精选 v2 - %s CST | 全部经 trace 验证\n" % NOW.strftime("%Y-%m-%d %H:%M"))
+        with open("cloud_top.txt", "w", encoding="utf-8") as f:
+            f.write("# 云端 trace 验证 TOP%d - %s CST\n" % (TOP_N, NOW.strftime("%Y-%m-%d %H:%M")))
+            f.write("# colo 是 GitHub runner 所在机房，不是你本地的落地机房，仅供参考\n")
+            f.write("# 最终节点请跑 local_check.bat 生成 ip.txt\n")
             for i, r in enumerate(top, 1):
                 f.write("%s:443#%02d|%s|源%d\n" % (r["ip"], i, r["colo"], r["source_count"]))
         if len(top) < TOP_N:
             log("[告警] 验证通过不足 %d 个，本次输出 %d 个，不拿未验证 IP 凑数" % (TOP_N, len(top)))
-        log("已写入 ip.txt：TOP%d" % len(top))
+        log("已写入 cloud_top.txt：TOP%d（ip.txt 由本地实测生成，云端不碰）" % len(top))
         for i, r in enumerate(top, 1):
             log("  %02d. %s:443  colo=%s  源%d(%s)" % (
                 i, r["ip"], r["colo"], r["source_count"], ",".join(r["sources"])))
