@@ -1,14 +1,14 @@
 {
   "version": "v2",
-  "updated": "2026-11-10 14:37:06 CST",
-  "candidates": 57,
-  "tested": 57,
-  "verified": 51,
+  "updated": "2026-11-11 02:43:22 CST",
+  "candidates": 62,
+  "tested": 60,
+  "verified": 54,
   "unverified": 6,
   "top": [
     {
-      "ip": "104.16.129.122",
-      "colo": "LAX",
+      "ip": "104.16.247.20",
+      "colo": "DFW",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -16,8 +16,8 @@
       "weight": 9
     },
     {
-      "ip": "104.18.205.232",
-      "colo": "LAX",
+      "ip": "104.18.163.14",
+      "colo": "DFW",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -25,8 +25,8 @@
       "weight": 9
     },
     {
-      "ip": "104.18.7.39",
-      "colo": "LAX",
+      "ip": "104.19.122.205",
+      "colo": "DFW",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -34,8 +34,8 @@
       "weight": 9
     },
     {
-      "ip": "104.19.115.99",
-      "colo": "LAX",
+      "ip": "104.21.237.181",
+      "colo": "DFW",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -43,16 +43,16 @@
       "weight": 9
     },
     {
-      "ip": "104.19.74.58",
-      "colo": "LAX",
+      "ip": "152.42.174.94",
+      "colo": "SIN",
       "source_count": 1,
       "sources": [
-        "cfyes"
+        "cmliu"
       ],
       "weight": 9
     },
     {
-      "ip": "134.255.247.200",
+      "ip": "152.89.107.52",
       "colo": "FRA",
       "source_count": 1,
       "sources": [
@@ -61,7 +61,7 @@
       "weight": 9
     },
     {
-      "ip": "164.132.101.80",
+      "ip": "157.230.111.133",
       "colo": "FRA",
       "source_count": 1,
       "sources": [
@@ -70,8 +70,8 @@
       "weight": 9
     },
     {
-      "ip": "167.71.238.69",
-      "colo": "BOM",
+      "ip": "161.35.162.154",
+      "colo": "LHR",
       "source_count": 1,
       "sources": [
         "cmliu"
@@ -79,8 +79,8 @@
       "weight": 9
     },
     {
-      "ip": "198.41.208.25",
-      "colo": "LAX",
+      "ip": "162.159.129.55",
+      "colo": "DFW",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -88,8 +88,8 @@
       "weight": 9
     },
     {
-      "ip": "198.41.208.48",
-      "colo": "LAX",
+      "ip": "162.159.193.80",
+      "colo": "DFW",
       "source_count": 1,
       "sources": [
         "cfyes"
