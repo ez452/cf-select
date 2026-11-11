@@ -1,13 +1,31 @@
 {
   "version": "v2",
-  "updated": "2026-11-11 02:43:22 CST",
-  "candidates": 62,
-  "tested": 60,
-  "verified": 54,
-  "unverified": 6,
+  "updated": "2026-11-11 10:56:04 CST",
+  "candidates": 58,
+  "tested": 58,
+  "verified": 50,
+  "unverified": 8,
   "top": [
     {
-      "ip": "104.16.247.20",
+      "ip": "104.17.123.122",
+      "colo": "ORD",
+      "source_count": 1,
+      "sources": [
+        "cfyes"
+      ],
+      "weight": 9
+    },
+    {
+      "ip": "104.17.144.213",
+      "colo": "ORD",
+      "source_count": 1,
+      "sources": [
+        "cfyes"
+      ],
+      "weight": 9
+    },
+    {
+      "ip": "104.17.89.169",
       "colo": "DFW",
       "source_count": 1,
       "sources": [
@@ -16,7 +34,7 @@
       "weight": 9
     },
     {
-      "ip": "104.18.163.14",
+      "ip": "104.18.140.43",
       "colo": "DFW",
       "source_count": 1,
       "sources": [
@@ -25,7 +43,7 @@
       "weight": 9
     },
     {
-      "ip": "104.19.122.205",
+      "ip": "104.19.132.83",
       "colo": "DFW",
       "source_count": 1,
       "sources": [
@@ -34,25 +52,7 @@
       "weight": 9
     },
     {
-      "ip": "104.21.237.181",
-      "colo": "DFW",
-      "source_count": 1,
-      "sources": [
-        "cfyes"
-      ],
-      "weight": 9
-    },
-    {
-      "ip": "152.42.174.94",
-      "colo": "SIN",
-      "source_count": 1,
-      "sources": [
-        "cmliu"
-      ],
-      "weight": 9
-    },
-    {
-      "ip": "152.89.107.52",
+      "ip": "144.31.84.191",
       "colo": "FRA",
       "source_count": 1,
       "sources": [
@@ -61,8 +61,8 @@
       "weight": 9
     },
     {
-      "ip": "157.230.111.133",
-      "colo": "FRA",
+      "ip": "178.105.95.125",
+      "colo": "CDG",
       "source_count": 1,
       "sources": [
         "cmliu"
@@ -70,8 +70,8 @@
       "weight": 9
     },
     {
-      "ip": "161.35.162.154",
-      "colo": "LHR",
+      "ip": "188.226.187.56",
+      "colo": "AMS",
       "source_count": 1,
       "sources": [
         "cmliu"
@@ -79,7 +79,7 @@
       "weight": 9
     },
     {
-      "ip": "162.159.129.55",
+      "ip": "198.41.208.40",
       "colo": "DFW",
       "source_count": 1,
       "sources": [
@@ -88,7 +88,7 @@
       "weight": 9
     },
     {
-      "ip": "162.159.193.80",
+      "ip": "198.41.208.95",
       "colo": "DFW",
       "source_count": 1,
       "sources": [
