@@ -1,14 +1,14 @@
 {
   "version": "v2",
-  "updated": "2026-11-11 10:56:04 CST",
+  "updated": "2026-11-11 19:59:33 CST",
   "candidates": 58,
   "tested": 58,
-  "verified": 50,
-  "unverified": 8,
+  "verified": 56,
+  "unverified": 2,
   "top": [
     {
-      "ip": "104.17.123.122",
-      "colo": "ORD",
+      "ip": "104.16.168.28",
+      "colo": "LAX",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -16,8 +16,8 @@
       "weight": 9
     },
     {
-      "ip": "104.17.144.213",
-      "colo": "ORD",
+      "ip": "104.16.224.222",
+      "colo": "LAX",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -25,8 +25,8 @@
       "weight": 9
     },
     {
-      "ip": "104.17.89.169",
-      "colo": "DFW",
+      "ip": "104.16.228.166",
+      "colo": "LAX",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -34,8 +34,8 @@
       "weight": 9
     },
     {
-      "ip": "104.18.140.43",
-      "colo": "DFW",
+      "ip": "104.17.150.246",
+      "colo": "LAX",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -43,8 +43,8 @@
       "weight": 9
     },
     {
-      "ip": "104.19.132.83",
-      "colo": "DFW",
+      "ip": "104.18.145.179",
+      "colo": "LAX",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -52,8 +52,8 @@
       "weight": 9
     },
     {
-      "ip": "144.31.84.191",
-      "colo": "FRA",
+      "ip": "138.124.25.25",
+      "colo": "TLL",
       "source_count": 1,
       "sources": [
         "cmliu"
@@ -61,16 +61,7 @@
       "weight": 9
     },
     {
-      "ip": "178.105.95.125",
-      "colo": "CDG",
-      "source_count": 1,
-      "sources": [
-        "cmliu"
-      ],
-      "weight": 9
-    },
-    {
-      "ip": "188.226.187.56",
+      "ip": "146.185.174.59",
       "colo": "AMS",
       "source_count": 1,
       "sources": [
@@ -79,20 +70,29 @@
       "weight": 9
     },
     {
-      "ip": "198.41.208.40",
-      "colo": "DFW",
+      "ip": "152.42.212.65",
+      "colo": "SIN",
       "source_count": 1,
       "sources": [
-        "cfyes"
+        "cmliu"
       ],
       "weight": 9
     },
     {
-      "ip": "198.41.208.95",
-      "colo": "DFW",
+      "ip": "164.92.200.68",
+      "colo": "FRA",
       "source_count": 1,
       "sources": [
-        "cfyes"
+        "cmliu"
+      ],
+      "weight": 9
+    },
+    {
+      "ip": "167.179.103.224",
+      "colo": "NRT",
+      "source_count": 1,
+      "sources": [
+        "cmliu"
       ],
       "weight": 9
     }
