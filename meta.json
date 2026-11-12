@@ -1,14 +1,14 @@
 {
   "version": "v2",
-  "updated": "2026-11-12 21:02:08 CST",
-  "candidates": 58,
-  "tested": 58,
-  "verified": 51,
+  "updated": "2026-11-13 03:00:01 CST",
+  "candidates": 70,
+  "tested": 60,
+  "verified": 53,
   "unverified": 7,
   "top": [
     {
-      "ip": "104.16.133.135",
-      "colo": "SEA",
+      "ip": "104.16.21.202",
+      "colo": "LAX",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -16,8 +16,8 @@
       "weight": 9
     },
     {
-      "ip": "104.19.13.162",
-      "colo": "SEA",
+      "ip": "104.17.155.140",
+      "colo": "LAX",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -25,7 +25,52 @@
       "weight": 9
     },
     {
-      "ip": "104.248.94.160",
+      "ip": "104.17.194.165",
+      "colo": "LAX",
+      "source_count": 1,
+      "sources": [
+        "cfyes"
+      ],
+      "weight": 9
+    },
+    {
+      "ip": "104.18.231.52",
+      "colo": "LAX",
+      "source_count": 1,
+      "sources": [
+        "cfyes"
+      ],
+      "weight": 9
+    },
+    {
+      "ip": "144.225.130.144",
+      "colo": "LAS",
+      "source_count": 1,
+      "sources": [
+        "cmliu"
+      ],
+      "weight": 9
+    },
+    {
+      "ip": "172.64.94.55",
+      "colo": "LAX",
+      "source_count": 1,
+      "sources": [
+        "cfyes"
+      ],
+      "weight": 9
+    },
+    {
+      "ip": "177.177.0.210",
+      "colo": "TXL",
+      "source_count": 1,
+      "sources": [
+        "cmliu"
+      ],
+      "weight": 9
+    },
+    {
+      "ip": "188.166.5.229",
       "colo": "AMS",
       "source_count": 1,
       "sources": [
@@ -34,35 +79,8 @@
       "weight": 9
     },
     {
-      "ip": "130.61.187.66",
-      "colo": "FRA",
-      "source_count": 1,
-      "sources": [
-        "cmliu"
-      ],
-      "weight": 9
-    },
-    {
-      "ip": "134.122.93.75",
-      "colo": "FRA",
-      "source_count": 1,
-      "sources": [
-        "cmliu"
-      ],
-      "weight": 9
-    },
-    {
-      "ip": "149.28.110.235",
-      "colo": "MIA",
-      "source_count": 1,
-      "sources": [
-        "cmliu"
-      ],
-      "weight": 9
-    },
-    {
-      "ip": "162.159.152.120",
-      "colo": "SEA",
+      "ip": "198.41.208.168",
+      "colo": "LAX",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -70,26 +88,8 @@
       "weight": 9
     },
     {
-      "ip": "162.159.153.137",
-      "colo": "SEA",
-      "source_count": 1,
-      "sources": [
-        "cfyes"
-      ],
-      "weight": 9
-    },
-    {
-      "ip": "162.159.242.150",
-      "colo": "SEA",
-      "source_count": 1,
-      "sources": [
-        "cfyes"
-      ],
-      "weight": 9
-    },
-    {
-      "ip": "162.159.243.182",
-      "colo": "SEA",
+      "ip": "198.41.209.127",
+      "colo": "LAX",
       "source_count": 1,
       "sources": [
         "cfyes"
