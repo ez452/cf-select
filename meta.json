@@ -1,13 +1,22 @@
 {
   "version": "v2",
-  "updated": "2026-11-13 20:27:24 CST",
-  "candidates": 55,
-  "tested": 55,
-  "verified": 52,
-  "unverified": 3,
+  "updated": "2026-11-14 02:36:51 CST",
+  "candidates": 70,
+  "tested": 60,
+  "verified": 54,
+  "unverified": 6,
   "top": [
     {
-      "ip": "104.16.72.242",
+      "ip": "104.16.144.120",
+      "colo": "ORD",
+      "source_count": 1,
+      "sources": [
+        "cfyes"
+      ],
+      "weight": 9
+    },
+    {
+      "ip": "104.16.200.227",
       "colo": "MSP",
       "source_count": 1,
       "sources": [
@@ -16,7 +25,7 @@
       "weight": 9
     },
     {
-      "ip": "104.18.5.1",
+      "ip": "104.17.247.181",
       "colo": "MSP",
       "source_count": 1,
       "sources": [
@@ -25,7 +34,7 @@
       "weight": 9
     },
     {
-      "ip": "104.19.129.172",
+      "ip": "104.17.66.5",
       "colo": "MSP",
       "source_count": 1,
       "sources": [
@@ -34,17 +43,8 @@
       "weight": 9
     },
     {
-      "ip": "104.19.78.172",
-      "colo": "MSP",
-      "source_count": 1,
-      "sources": [
-        "cfyes"
-      ],
-      "weight": 9
-    },
-    {
-      "ip": "117.55.231.178",
-      "colo": "LAX",
+      "ip": "144.126.201.81",
+      "colo": "LHR",
       "source_count": 1,
       "sources": [
         "cmliu"
@@ -52,8 +52,8 @@
       "weight": 9
     },
     {
-      "ip": "131.186.16.166",
-      "colo": "ICN",
+      "ip": "144.225.8.47",
+      "colo": "MCI",
       "source_count": 1,
       "sources": [
         "cmliu"
@@ -61,16 +61,7 @@
       "weight": 9
     },
     {
-      "ip": "144.31.62.217",
-      "colo": "FRA",
-      "source_count": 1,
-      "sources": [
-        "cmliu"
-      ],
-      "weight": 9
-    },
-    {
-      "ip": "161.35.155.59",
+      "ip": "146.185.148.104",
       "colo": "AMS",
       "source_count": 1,
       "sources": [
@@ -79,8 +70,8 @@
       "weight": 9
     },
     {
-      "ip": "161.35.192.122",
-      "colo": "FRA",
+      "ip": "159.65.196.52",
+      "colo": "AMS",
       "source_count": 1,
       "sources": [
         "cmliu"
@@ -88,7 +79,16 @@
       "weight": 9
     },
     {
-      "ip": "162.159.133.1",
+      "ip": "160.191.77.194",
+      "colo": "SIN",
+      "source_count": 1,
+      "sources": [
+        "cmliu"
+      ],
+      "weight": 9
+    },
+    {
+      "ip": "162.159.128.138",
       "colo": "MSP",
       "source_count": 1,
       "sources": [
