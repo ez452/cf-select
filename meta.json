@@ -1,14 +1,14 @@
 {
   "version": "v2",
-  "updated": "2026-11-13 11:32:16 CST",
-  "candidates": 69,
-  "tested": 60,
-  "verified": 59,
-  "unverified": 1,
+  "updated": "2026-11-13 20:27:24 CST",
+  "candidates": 55,
+  "tested": 55,
+  "verified": 52,
+  "unverified": 3,
   "top": [
     {
-      "ip": "104.19.138.173",
-      "colo": "SEA",
+      "ip": "104.16.72.242",
+      "colo": "MSP",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -16,8 +16,8 @@
       "weight": 9
     },
     {
-      "ip": "104.19.16.53",
-      "colo": "SEA",
+      "ip": "104.18.5.1",
+      "colo": "MSP",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -25,8 +25,8 @@
       "weight": 9
     },
     {
-      "ip": "104.19.68.65",
-      "colo": "SEA",
+      "ip": "104.19.129.172",
+      "colo": "MSP",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -34,8 +34,8 @@
       "weight": 9
     },
     {
-      "ip": "104.19.9.145",
-      "colo": "SEA",
+      "ip": "104.19.78.172",
+      "colo": "MSP",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -43,16 +43,7 @@
       "weight": 9
     },
     {
-      "ip": "104.236.186.204",
-      "colo": "SJC",
-      "source_count": 1,
-      "sources": [
-        "cmliu"
-      ],
-      "weight": 9
-    },
-    {
-      "ip": "107.172.241.7",
+      "ip": "117.55.231.178",
       "colo": "LAX",
       "source_count": 1,
       "sources": [
@@ -61,7 +52,16 @@
       "weight": 9
     },
     {
-      "ip": "134.122.84.25",
+      "ip": "131.186.16.166",
+      "colo": "ICN",
+      "source_count": 1,
+      "sources": [
+        "cmliu"
+      ],
+      "weight": 9
+    },
+    {
+      "ip": "144.31.62.217",
       "colo": "FRA",
       "source_count": 1,
       "sources": [
@@ -70,8 +70,8 @@
       "weight": 9
     },
     {
-      "ip": "154.29.145.201",
-      "colo": "LAX",
+      "ip": "161.35.155.59",
+      "colo": "AMS",
       "source_count": 1,
       "sources": [
         "cmliu"
@@ -79,8 +79,8 @@
       "weight": 9
     },
     {
-      "ip": "159.195.31.159",
-      "colo": "HAM",
+      "ip": "161.35.192.122",
+      "colo": "FRA",
       "source_count": 1,
       "sources": [
         "cmliu"
@@ -88,8 +88,8 @@
       "weight": 9
     },
     {
-      "ip": "162.159.249.122",
-      "colo": "SEA",
+      "ip": "162.159.133.1",
+      "colo": "MSP",
       "source_count": 1,
       "sources": [
         "cfyes"
