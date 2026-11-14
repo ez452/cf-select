@@ -1,14 +1,14 @@
 {
   "version": "v2",
-  "updated": "2026-11-14 02:36:51 CST",
-  "candidates": 70,
+  "updated": "2026-11-14 11:28:19 CST",
+  "candidates": 62,
   "tested": 60,
   "verified": 54,
   "unverified": 6,
   "top": [
     {
-      "ip": "104.16.144.120",
-      "colo": "ORD",
+      "ip": "104.17.119.140",
+      "colo": "SEA",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -16,8 +16,8 @@
       "weight": 9
     },
     {
-      "ip": "104.16.200.227",
-      "colo": "MSP",
+      "ip": "104.17.30.47",
+      "colo": "SEA",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -25,8 +25,8 @@
       "weight": 9
     },
     {
-      "ip": "104.17.247.181",
-      "colo": "MSP",
+      "ip": "104.19.152.32",
+      "colo": "SEA",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -34,17 +34,8 @@
       "weight": 9
     },
     {
-      "ip": "104.17.66.5",
-      "colo": "MSP",
-      "source_count": 1,
-      "sources": [
-        "cfyes"
-      ],
-      "weight": 9
-    },
-    {
-      "ip": "144.126.201.81",
-      "colo": "LHR",
+      "ip": "141.133.174.49",
+      "colo": "FRA",
       "source_count": 1,
       "sources": [
         "cmliu"
@@ -52,8 +43,8 @@
       "weight": 9
     },
     {
-      "ip": "144.225.8.47",
-      "colo": "MCI",
+      "ip": "144.225.130.208",
+      "colo": "LAX",
       "source_count": 1,
       "sources": [
         "cmliu"
@@ -61,7 +52,7 @@
       "weight": 9
     },
     {
-      "ip": "146.185.148.104",
+      "ip": "146.185.170.67",
       "colo": "AMS",
       "source_count": 1,
       "sources": [
@@ -70,8 +61,8 @@
       "weight": 9
     },
     {
-      "ip": "159.65.196.52",
-      "colo": "AMS",
+      "ip": "158.51.124.62",
+      "colo": "LAX",
       "source_count": 1,
       "sources": [
         "cmliu"
@@ -79,17 +70,26 @@
       "weight": 9
     },
     {
-      "ip": "160.191.77.194",
-      "colo": "SIN",
+      "ip": "162.159.160.213",
+      "colo": "DUB",
       "source_count": 1,
       "sources": [
-        "cmliu"
+        "cfyes"
       ],
       "weight": 9
     },
     {
-      "ip": "162.159.128.138",
-      "colo": "MSP",
+      "ip": "162.159.160.244",
+      "colo": "DUB",
+      "source_count": 1,
+      "sources": [
+        "cfyes"
+      ],
+      "weight": 9
+    },
+    {
+      "ip": "162.159.160.58",
+      "colo": "DUB",
       "source_count": 1,
       "sources": [
         "cfyes"
