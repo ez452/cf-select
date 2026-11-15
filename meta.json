@@ -1,14 +1,14 @@
 {
   "version": "v2",
-  "updated": "2026-11-15 01:13:35 CST",
-  "candidates": 63,
+  "updated": "2026-11-15 10:58:20 CST",
+  "candidates": 70,
   "tested": 60,
-  "verified": 54,
-  "unverified": 6,
+  "verified": 51,
+  "unverified": 9,
   "top": [
     {
-      "ip": "104.17.215.248",
-      "colo": "PDX",
+      "ip": "104.16.231.123",
+      "colo": "MSP",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -16,8 +16,8 @@
       "weight": 9
     },
     {
-      "ip": "104.17.217.63",
-      "colo": "PDX",
+      "ip": "104.17.233.191",
+      "colo": "MSP",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -25,8 +25,8 @@
       "weight": 9
     },
     {
-      "ip": "104.18.138.149",
-      "colo": "PDX",
+      "ip": "104.17.46.42",
+      "colo": "MSP",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -34,8 +34,8 @@
       "weight": 9
     },
     {
-      "ip": "104.19.235.143",
-      "colo": "PDX",
+      "ip": "104.19.21.31",
+      "colo": "MSP",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -43,8 +43,8 @@
       "weight": 9
     },
     {
-      "ip": "104.19.75.20",
-      "colo": "PDX",
+      "ip": "104.19.252.112",
+      "colo": "MSP",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -52,8 +52,8 @@
       "weight": 9
     },
     {
-      "ip": "144.126.224.204",
-      "colo": "LHR",
+      "ip": "152.42.212.65",
+      "colo": "SIN",
       "source_count": 1,
       "sources": [
         "cmliu"
@@ -61,26 +61,8 @@
       "weight": 9
     },
     {
-      "ip": "147.45.170.176",
-      "colo": "AMS",
-      "source_count": 1,
-      "sources": [
-        "cmliu"
-      ],
-      "weight": 9
-    },
-    {
-      "ip": "157.230.23.26",
-      "colo": "FRA",
-      "source_count": 1,
-      "sources": [
-        "cmliu"
-      ],
-      "weight": 9
-    },
-    {
-      "ip": "162.159.133.17",
-      "colo": "PDX",
+      "ip": "162.159.130.222",
+      "colo": "MSP",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -88,8 +70,26 @@
       "weight": 9
     },
     {
-      "ip": "162.159.137.168",
-      "colo": "PDX",
+      "ip": "162.159.160.114",
+      "colo": "DUB",
+      "source_count": 1,
+      "sources": [
+        "cfyes"
+      ],
+      "weight": 9
+    },
+    {
+      "ip": "162.159.160.128",
+      "colo": "DUB",
+      "source_count": 1,
+      "sources": [
+        "cfyes"
+      ],
+      "weight": 9
+    },
+    {
+      "ip": "162.159.160.178",
+      "colo": "DUB",
       "source_count": 1,
       "sources": [
         "cfyes"
