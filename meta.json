@@ -1,14 +1,14 @@
 {
   "version": "v2",
-  "updated": "2026-11-15 10:58:20 CST",
-  "candidates": 70,
+  "updated": "2026-11-15 20:07:15 CST",
+  "candidates": 64,
   "tested": 60,
-  "verified": 51,
-  "unverified": 9,
+  "verified": 55,
+  "unverified": 5,
   "top": [
     {
-      "ip": "104.16.231.123",
-      "colo": "MSP",
+      "ip": "104.16.171.238",
+      "colo": "SEA",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -16,8 +16,8 @@
       "weight": 9
     },
     {
-      "ip": "104.17.233.191",
-      "colo": "MSP",
+      "ip": "104.16.86.95",
+      "colo": "SEA",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -25,8 +25,8 @@
       "weight": 9
     },
     {
-      "ip": "104.17.46.42",
-      "colo": "MSP",
+      "ip": "104.17.136.78",
+      "colo": "SEA",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -34,8 +34,8 @@
       "weight": 9
     },
     {
-      "ip": "104.19.21.31",
-      "colo": "MSP",
+      "ip": "104.18.231.197",
+      "colo": "SEA",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -43,17 +43,8 @@
       "weight": 9
     },
     {
-      "ip": "104.19.252.112",
-      "colo": "MSP",
-      "source_count": 1,
-      "sources": [
-        "cfyes"
-      ],
-      "weight": 9
-    },
-    {
-      "ip": "152.42.212.65",
-      "colo": "SIN",
+      "ip": "109.199.122.5",
+      "colo": "CDG",
       "source_count": 1,
       "sources": [
         "cmliu"
@@ -61,8 +52,8 @@
       "weight": 9
     },
     {
-      "ip": "162.159.130.222",
-      "colo": "MSP",
+      "ip": "162.159.130.166",
+      "colo": "SEA",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -70,7 +61,16 @@
       "weight": 9
     },
     {
-      "ip": "162.159.160.114",
+      "ip": "162.159.136.212",
+      "colo": "SEA",
+      "source_count": 1,
+      "sources": [
+        "cfyes"
+      ],
+      "weight": 9
+    },
+    {
+      "ip": "162.159.160.15",
       "colo": "DUB",
       "source_count": 1,
       "sources": [
@@ -79,7 +79,7 @@
       "weight": 9
     },
     {
-      "ip": "162.159.160.128",
+      "ip": "162.159.160.223",
       "colo": "DUB",
       "source_count": 1,
       "sources": [
@@ -88,7 +88,7 @@
       "weight": 9
     },
     {
-      "ip": "162.159.160.178",
+      "ip": "162.159.160.25",
       "colo": "DUB",
       "source_count": 1,
       "sources": [
