@@ -1,14 +1,14 @@
 {
   "version": "v2",
-  "updated": "2026-11-18 21:16:46 CST",
-  "candidates": 68,
+  "updated": "2026-11-19 03:27:21 CST",
+  "candidates": 66,
   "tested": 60,
-  "verified": 53,
-  "unverified": 7,
+  "verified": 54,
+  "unverified": 6,
   "top": [
     {
-      "ip": "104.16.120.181",
-      "colo": "IAD",
+      "ip": "104.21.76.131",
+      "colo": "DFW",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -16,8 +16,8 @@
       "weight": 9
     },
     {
-      "ip": "104.16.89.217",
-      "colo": "IAD",
+      "ip": "104.24.158.45",
+      "colo": "DFW",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -25,8 +25,8 @@
       "weight": 9
     },
     {
-      "ip": "104.18.109.203",
-      "colo": "IAD",
+      "ip": "104.25.137.58",
+      "colo": "DFW",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -34,8 +34,8 @@
       "weight": 9
     },
     {
-      "ip": "104.19.102.253",
-      "colo": "IAD",
+      "ip": "104.27.32.193",
+      "colo": "DFW",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -43,53 +43,53 @@
       "weight": 9
     },
     {
-      "ip": "107.189.18.255",
-      "colo": "AMS",
+      "ip": "162.159.128.41",
+      "colo": "DFW",
       "source_count": 1,
       "sources": [
-        "cmliu"
+        "cfyes"
       ],
       "weight": 9
     },
     {
-      "ip": "144.31.252.129",
-      "colo": "FRA",
+      "ip": "162.159.129.43",
+      "colo": "DFW",
       "source_count": 1,
       "sources": [
-        "cmliu"
+        "cfyes"
       ],
       "weight": 9
     },
     {
-      "ip": "144.31.82.152",
-      "colo": "AMS",
+      "ip": "162.159.134.121",
+      "colo": "DFW",
       "source_count": 1,
       "sources": [
-        "cmliu"
+        "cfyes"
       ],
       "weight": 9
     },
     {
-      "ip": "150.230.38.45",
-      "colo": "SJC",
+      "ip": "162.159.135.175",
+      "colo": "DFW",
       "source_count": 1,
       "sources": [
-        "cmliu"
+        "cfyes"
       ],
       "weight": 9
     },
     {
-      "ip": "153.56.133.119",
-      "colo": "AMS",
+      "ip": "162.159.138.239",
+      "colo": "DFW",
       "source_count": 1,
       "sources": [
-        "cmliu"
+        "cfyes"
       ],
       "weight": 9
     },
     {
-      "ip": "162.159.133.119",
-      "colo": "IAD",
+      "ip": "162.159.249.16",
+      "colo": "DFW",
       "source_count": 1,
       "sources": [
         "cfyes"
