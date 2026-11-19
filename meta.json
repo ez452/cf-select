@@ -1,13 +1,13 @@
 {
   "version": "v2",
-  "updated": "2026-11-19 12:24:54 CST",
-  "candidates": 72,
+  "updated": "2026-11-19 21:39:54 CST",
+  "candidates": 63,
   "tested": 60,
-  "verified": 53,
-  "unverified": 7,
+  "verified": 54,
+  "unverified": 6,
   "top": [
     {
-      "ip": "104.16.68.52",
+      "ip": "104.17.131.79",
       "colo": "IAD",
       "source_count": 1,
       "sources": [
@@ -16,7 +16,7 @@
       "weight": 9
     },
     {
-      "ip": "104.17.182.104",
+      "ip": "104.18.152.36",
       "colo": "IAD",
       "source_count": 1,
       "sources": [
@@ -25,7 +25,7 @@
       "weight": 9
     },
     {
-      "ip": "104.18.161.182",
+      "ip": "104.18.223.41",
       "colo": "IAD",
       "source_count": 1,
       "sources": [
@@ -34,7 +34,7 @@
       "weight": 9
     },
     {
-      "ip": "104.19.52.77",
+      "ip": "104.19.184.209",
       "colo": "IAD",
       "source_count": 1,
       "sources": [
@@ -43,7 +43,7 @@
       "weight": 9
     },
     {
-      "ip": "141.101.123.227",
+      "ip": "104.19.59.134",
       "colo": "IAD",
       "source_count": 1,
       "sources": [
@@ -52,8 +52,8 @@
       "weight": 9
     },
     {
-      "ip": "146.185.163.82",
-      "colo": "AMS",
+      "ip": "157.228.142.191",
+      "colo": "ARN",
       "source_count": 1,
       "sources": [
         "cmliu"
@@ -61,7 +61,7 @@
       "weight": 9
     },
     {
-      "ip": "162.159.130.23",
+      "ip": "162.159.135.206",
       "colo": "IAD",
       "source_count": 1,
       "sources": [
@@ -70,7 +70,7 @@
       "weight": 9
     },
     {
-      "ip": "162.159.136.30",
+      "ip": "162.159.138.129",
       "colo": "IAD",
       "source_count": 1,
       "sources": [
@@ -79,8 +79,8 @@
       "weight": 9
     },
     {
-      "ip": "162.159.152.8",
-      "colo": "IAD",
+      "ip": "162.159.160.80",
+      "colo": "DUB",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -88,8 +88,8 @@
       "weight": 9
     },
     {
-      "ip": "162.159.160.191",
-      "colo": "MAD",
+      "ip": "162.159.160.98",
+      "colo": "DUB",
       "source_count": 1,
       "sources": [
         "cfyes"
