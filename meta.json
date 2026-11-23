@@ -1,14 +1,14 @@
 {
   "version": "v2",
-  "updated": "2026-11-23 11:54:36 CST",
-  "candidates": 74,
+  "updated": "2026-11-23 23:06:12 CST",
+  "candidates": 66,
   "tested": 60,
-  "verified": 54,
-  "unverified": 6,
+  "verified": 55,
+  "unverified": 5,
   "top": [
     {
       "ip": "104.16.1.182",
-      "colo": "LAX",
+      "colo": "DFW",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -17,7 +17,7 @@
     },
     {
       "ip": "104.16.1.88",
-      "colo": "LAX",
+      "colo": "DFW",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -26,7 +26,7 @@
     },
     {
       "ip": "104.16.10.178",
-      "colo": "LAX",
+      "colo": "DFW",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -35,7 +35,7 @@
     },
     {
       "ip": "104.16.224.207",
-      "colo": "LAX",
+      "colo": "DFW",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -44,7 +44,7 @@
     },
     {
       "ip": "104.19.203.71",
-      "colo": "LAX",
+      "colo": "DFW",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -52,7 +52,16 @@
       "weight": 9
     },
     {
-      "ip": "142.93.102.20",
+      "ip": "107.170.249.50",
+      "colo": "SJC",
+      "source_count": 1,
+      "sources": [
+        "cmliu"
+      ],
+      "weight": 9
+    },
+    {
+      "ip": "138.68.78.45",
       "colo": "FRA",
       "source_count": 1,
       "sources": [
@@ -61,7 +70,7 @@
       "weight": 9
     },
     {
-      "ip": "161.35.75.176",
+      "ip": "159.89.28.70",
       "colo": "FRA",
       "source_count": 1,
       "sources": [
@@ -71,7 +80,7 @@
     },
     {
       "ip": "162.159.128.113",
-      "colo": "LAX",
+      "colo": "DFW",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -80,16 +89,7 @@
     },
     {
       "ip": "162.159.128.16",
-      "colo": "LAX",
-      "source_count": 1,
-      "sources": [
-        "cfyes"
-      ],
-      "weight": 9
-    },
-    {
-      "ip": "162.159.128.65",
-      "colo": "LAX",
+      "colo": "DFW",
       "source_count": 1,
       "sources": [
         "cfyes"
