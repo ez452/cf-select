@@ -1,14 +1,14 @@
 {
   "version": "v2",
-  "updated": "2026-11-23 23:06:12 CST",
-  "candidates": 66,
+  "updated": "2026-11-24 06:46:32 CST",
+  "candidates": 73,
   "tested": 60,
   "verified": 55,
   "unverified": 5,
   "top": [
     {
       "ip": "104.16.1.182",
-      "colo": "DFW",
+      "colo": "IAD",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -17,7 +17,7 @@
     },
     {
       "ip": "104.16.1.88",
-      "colo": "DFW",
+      "colo": "IAD",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -26,7 +26,7 @@
     },
     {
       "ip": "104.16.10.178",
-      "colo": "DFW",
+      "colo": "IAD",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -35,7 +35,7 @@
     },
     {
       "ip": "104.16.224.207",
-      "colo": "DFW",
+      "colo": "IAD",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -44,7 +44,7 @@
     },
     {
       "ip": "104.19.203.71",
-      "colo": "DFW",
+      "colo": "IAD",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -52,8 +52,8 @@
       "weight": 9
     },
     {
-      "ip": "107.170.249.50",
-      "colo": "SJC",
+      "ip": "13.62.127.104",
+      "colo": "ARN",
       "source_count": 1,
       "sources": [
         "cmliu"
@@ -61,8 +61,8 @@
       "weight": 9
     },
     {
-      "ip": "138.68.78.45",
-      "colo": "FRA",
+      "ip": "131.186.16.166",
+      "colo": "ICN",
       "source_count": 1,
       "sources": [
         "cmliu"
@@ -70,7 +70,7 @@
       "weight": 9
     },
     {
-      "ip": "159.89.28.70",
+      "ip": "159.223.18.82",
       "colo": "FRA",
       "source_count": 1,
       "sources": [
@@ -80,7 +80,7 @@
     },
     {
       "ip": "162.159.128.113",
-      "colo": "DFW",
+      "colo": "IAD",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -89,7 +89,7 @@
     },
     {
       "ip": "162.159.128.16",
-      "colo": "DFW",
+      "colo": "IAD",
       "source_count": 1,
       "sources": [
         "cfyes"
