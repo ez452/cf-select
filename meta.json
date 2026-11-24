@@ -1,14 +1,14 @@
 {
   "version": "v2",
-  "updated": "2026-11-24 15:02:15 CST",
-  "candidates": 62,
+  "updated": "2026-11-24 23:03:49 CST",
+  "candidates": 64,
   "tested": 60,
-  "verified": 57,
-  "unverified": 3,
+  "verified": 55,
+  "unverified": 5,
   "top": [
     {
       "ip": "104.16.1.182",
-      "colo": "MSP",
+      "colo": "ATL",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -17,7 +17,7 @@
     },
     {
       "ip": "104.16.1.88",
-      "colo": "MSP",
+      "colo": "ATL",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -26,7 +26,7 @@
     },
     {
       "ip": "104.16.10.178",
-      "colo": "MSP",
+      "colo": "ATL",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -35,7 +35,7 @@
     },
     {
       "ip": "104.16.224.207",
-      "colo": "MSP",
+      "colo": "ATL",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -44,7 +44,7 @@
     },
     {
       "ip": "104.19.203.71",
-      "colo": "MSP",
+      "colo": "ATL",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -52,7 +52,7 @@
       "weight": 9
     },
     {
-      "ip": "104.248.68.179",
+      "ip": "138.197.194.78",
       "colo": "SJC",
       "source_count": 1,
       "sources": [
@@ -61,8 +61,8 @@
       "weight": 9
     },
     {
-      "ip": "157.22.179.183",
-      "colo": "AMS",
+      "ip": "142.93.97.208",
+      "colo": "FRA",
       "source_count": 1,
       "sources": [
         "cmliu"
@@ -70,8 +70,8 @@
       "weight": 9
     },
     {
-      "ip": "159.65.19.63",
-      "colo": "LHR",
+      "ip": "157.230.110.242",
+      "colo": "FRA",
       "source_count": 1,
       "sources": [
         "cmliu"
@@ -79,17 +79,17 @@
       "weight": 9
     },
     {
-      "ip": "162.159.128.146",
-      "colo": "MSP",
+      "ip": "16.216.65.86",
+      "colo": "PHX",
       "source_count": 1,
       "sources": [
-        "cfyes"
+        "cmliu"
       ],
       "weight": 9
     },
     {
       "ip": "162.159.152.190",
-      "colo": "MSP",
+      "colo": "ATL",
       "source_count": 1,
       "sources": [
         "cfyes"
