@@ -1,14 +1,14 @@
 {
   "version": "v2",
-  "updated": "2026-11-25 13:37:09 CST",
-  "candidates": 72,
+  "updated": "2026-11-25 22:44:15 CST",
+  "candidates": 67,
   "tested": 60,
-  "verified": 54,
-  "unverified": 6,
+  "verified": 49,
+  "unverified": 11,
   "top": [
     {
-      "ip": "104.16.1.111",
-      "colo": "DFW",
+      "ip": "104.16.29.210",
+      "colo": "MSP",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -16,8 +16,8 @@
       "weight": 9
     },
     {
-      "ip": "104.17.170.161",
-      "colo": "DFW",
+      "ip": "104.17.153.212",
+      "colo": "MSP",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -25,8 +25,8 @@
       "weight": 9
     },
     {
-      "ip": "104.17.62.239",
-      "colo": "DFW",
+      "ip": "104.18.31.243",
+      "colo": "MSP",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -34,8 +34,8 @@
       "weight": 9
     },
     {
-      "ip": "104.19.173.151",
-      "colo": "DFW",
+      "ip": "104.19.171.205",
+      "colo": "MSP",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -43,8 +43,8 @@
       "weight": 9
     },
     {
-      "ip": "104.19.68.215",
-      "colo": "DFW",
+      "ip": "104.19.248.151",
+      "colo": "MSP",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -52,8 +52,8 @@
       "weight": 9
     },
     {
-      "ip": "146.190.112.78",
-      "colo": "SJC",
+      "ip": "157.90.123.236",
+      "colo": "CDG",
       "source_count": 1,
       "sources": [
         "cmliu"
@@ -61,8 +61,8 @@
       "weight": 9
     },
     {
-      "ip": "162.159.128.150",
-      "colo": "DFW",
+      "ip": "162.159.130.228",
+      "colo": "MSP",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -70,8 +70,8 @@
       "weight": 9
     },
     {
-      "ip": "162.159.128.164",
-      "colo": "DFW",
+      "ip": "162.159.152.249",
+      "colo": "MSP",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -79,8 +79,8 @@
       "weight": 9
     },
     {
-      "ip": "162.159.160.186",
-      "colo": "DUB",
+      "ip": "162.159.153.9",
+      "colo": "MSP",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -88,7 +88,7 @@
       "weight": 9
     },
     {
-      "ip": "162.159.160.2",
+      "ip": "162.159.160.104",
       "colo": "DUB",
       "source_count": 1,
       "sources": [
