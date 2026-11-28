@@ -1,14 +1,14 @@
 {
   "version": "v2",
-  "updated": "2026-11-28 04:04:44 CST",
-  "candidates": 65,
+  "updated": "2026-11-28 12:54:07 CST",
+  "candidates": 66,
   "tested": 60,
   "verified": 53,
   "unverified": 7,
   "top": [
     {
-      "ip": "104.17.108.45",
-      "colo": "PDX",
+      "ip": "104.18.214.6",
+      "colo": "IAD",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -16,8 +16,8 @@
       "weight": 9
     },
     {
-      "ip": "104.17.220.60",
-      "colo": "PDX",
+      "ip": "104.19.109.220",
+      "colo": "IAD",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -25,8 +25,8 @@
       "weight": 9
     },
     {
-      "ip": "104.18.22.97",
-      "colo": "PDX",
+      "ip": "104.19.87.35",
+      "colo": "IAD",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -34,16 +34,16 @@
       "weight": 9
     },
     {
-      "ip": "104.19.238.255",
-      "colo": "PDX",
+      "ip": "108.61.0.242",
+      "colo": "EWR",
       "source_count": 1,
       "sources": [
-        "cfyes"
+        "cmliu"
       ],
       "weight": 9
     },
     {
-      "ip": "113.20.12.85",
+      "ip": "117.55.224.251",
       "colo": "LAX",
       "source_count": 1,
       "sources": [
@@ -52,17 +52,8 @@
       "weight": 9
     },
     {
-      "ip": "136.144.243.91",
-      "colo": "AMS",
-      "source_count": 1,
-      "sources": [
-        "cmliu"
-      ],
-      "weight": 9
-    },
-    {
-      "ip": "147.45.170.176",
-      "colo": "AMS",
+      "ip": "152.42.175.157",
+      "colo": "SIN",
       "source_count": 1,
       "sources": [
         "cmliu"
@@ -71,7 +62,7 @@
     },
     {
       "ip": "162.159.128.113",
-      "colo": "PDX",
+      "colo": "IAD",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -80,7 +71,7 @@
     },
     {
       "ip": "162.159.128.34",
-      "colo": "PDX",
+      "colo": "IAD",
       "source_count": 1,
       "sources": [
         "cfyes"
@@ -89,7 +80,16 @@
     },
     {
       "ip": "162.159.128.41",
-      "colo": "PDX",
+      "colo": "IAD",
+      "source_count": 1,
+      "sources": [
+        "cfyes"
+      ],
+      "weight": 9
+    },
+    {
+      "ip": "162.159.128.90",
+      "colo": "IAD",
       "source_count": 1,
       "sources": [
         "cfyes"
